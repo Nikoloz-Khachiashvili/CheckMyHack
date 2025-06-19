@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1750347303440,
+    "email": "test@gmail.com",
+    "breachCount": 2,
+    "checkedAt": "2025-06-19T15:35:03.433Z",
+    "userId": 1
+  },
+  {
+    "id": 1750346442202,
+    "email": "gela@gmail.com",
+    "breachCount": 0,
+    "checkedAt": "2025-06-19T15:20:42.187Z",
+    "userId": 1
+  },
+  {
+    "id": 1750346375107,
+    "email": "test@gmail.com",
+    "breachCount": 2,
+    "checkedAt": "2025-06-19T15:19:35.076Z",
+    "userId": 1
+  },
+  {
+    "id": 1750343154519,
+    "email": "test@gmail.com",
+    "breachCount": 2,
+    "checkedAt": "2025-06-19T14:25:54.516Z"
+  },
+  {
+    "id": 1750343133543,
+    "email": "gela@gmail.com",
+    "breachCount": 0,
+    "checkedAt": "2025-06-19T14:25:33.539Z"
+  },
+  {
+    "id": 1750290774367,
+    "email": "test@gmail.com",
+    "breachCount": 2,
+    "checkedAt": "2025-06-18T23:52:54.364Z"
+  },
+  {
+    "id": 1750290766618,
+    "email": "maisa@gmail.com",
+    "breachCount": 0,
+    "checkedAt": "2025-06-18T23:52:46.614Z"
+  },
+  {
+    "id": 1750251329816,
+    "email": "test@gmail.com",
+    "breachCount": 2,
+    "checkedAt": "2025-06-18T12:55:29.814Z"
+  },
+  {
+    "id": 1750251319657,
+    "email": "gela@gela.com",
+    "breachCount": 0,
+    "checkedAt": "2025-06-18T12:55:19.655Z"
+  }
+]
